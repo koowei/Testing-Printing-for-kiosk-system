@@ -1,0 +1,8 @@
+true,3,1.5
+true,8,3.2
+true,15,4.5
+true,48,9.6
+false,3,3
+false,8,7.2
+false,15,12
+false,48,33.6
